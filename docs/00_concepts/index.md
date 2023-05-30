@@ -187,3 +187,43 @@ else: # if x is not equal to 5 or 10
     print("Goodbye World") # print "Goodbye World"
 ```
 
+#### For
+
+For loops are used to repeat something a certain number of times, or iterate (go through each element) over a list. For example, if you wanted to print "Hello World" 5 times, you could do this:
+
+C
+```c
+for (int i = 0; i < 5; i++) { // repeat 5 times
+    printf("Hello World\n"); // print "Hello World"
+}
+```
+(Again, remember that C code has to be inside of a function, so this code would be inside of the `main` function)
+
+Python
+```py
+for i in range(5): # repeat 5 times
+    print("Hello World") # print "Hello World"
+```
+
+Some of this code (especially the C part) looks a bit confusing, but in the Python and C sections of this tutorial, I will explain what each part of the code does.
+
+#### While
+
+While loops are used to repeat something until a condition is false. For example, if you wanted to print "Hello World" until a variable called `x` is equal to 5, you could do this:
+
+C
+```c
+while (x != 5) { // repeat until x is equal to 5
+    printf("Hello World\n"); // print "Hello World" 
+}
+```
+
+Python
+```py
+while x != 5: # repeat until x is equal to 5
+    print("Hello World") # print "Hello World"
+```
+
+If x is never equal to 5, this will repeat forever.
+[Back: Main](../)
+[Next: Python](../c/)
