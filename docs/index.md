@@ -1,3 +1,10 @@
+---
+layout: home
+title: Home Page
+description: Programming tutorial
+permalink: /
+---
+
 # Programming Tutorial
 
  - Part 0: [Concepts](00/)
