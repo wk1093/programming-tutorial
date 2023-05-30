@@ -1,4 +1,4 @@
-# Programming Concepts
+# Part 0: Programming Concepts
 
 Programming is really just converting a thought into a basic form called an algorithm. Then writing that algorithm in what is called
 a programming language. The compiler then takes that programming language and converts it into machine code that the computer can
@@ -226,5 +226,5 @@ while x != 5: # repeat until x is equal to 5
 
 If x is never equal to 5, this will repeat forever.
 
-[Back: Main](../) |
-[Next: Python](../c/)
+[Back](../) |
+[Next](../01/)
