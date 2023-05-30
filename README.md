@@ -1,4 +1,4 @@
 # A basic programming tutorial
 
 
-[Main Page](index.md)
+[Main Page](docs/index.md)
