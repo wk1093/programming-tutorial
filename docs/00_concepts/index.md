@@ -129,3 +129,61 @@ Sometimes in an algorithm, you want to do something different based on a conditi
 - `while` - repeat something until a condition is false (or true, using the not operator)
 
 #### If
+
+If statements are used to do something if a condition is true. For example, if you wanted to print "Hello World" if a variable called `x` is equal to 5, you could do this:
+
+C
+```c
+if (x == 5) { // if x is equal to 5
+    printf("Hello World\n"); // print "Hello World"
+}
+```
+
+Python
+```py
+if x == 5: # if x is equal to 5
+    print("Hello World") # print "Hello World"
+```
+
+you can use the `else` keyword to do something if the condition is false. For example, if you wanted to print "Hello World" if a variable called `x` is equal to 5, and print "Goodbye World" if it is not, you could do this:
+
+C
+```c
+if (x == 5) { // if x is equal to 5
+    printf("Hello World\n"); // print "Hello World"
+} else { // if x is not equal to 5
+    printf("Goodbye World\n"); // print "Goodbye World"
+}
+```
+
+Python
+```py
+if x == 5: # if x is equal to 5
+    print("Hello World") # print "Hello World"
+else: # if x is not equal to 5
+    print("Goodbye World") # print "Goodbye World"
+```
+
+You can also use `else if` (or `elif` in python) to do something if the first condition is false, and another condition is true. For example, if you wanted to print "Hello World" if a variable called `x` is equal to 5, print "Goodbye World" if it is not, and print "Hello Goodbye World" if it is equal to 10, you could do this:
+
+C
+```c
+if (x == 5) { // if x is equal to 5
+    printf("Hello World\n"); // print "Hello World"
+} else if (x == 10) { // if x is equal to 10
+    printf("Hello Goodbye World\n"); // print "Hello Goodbye World"
+} else { // if x is not equal to 5 or 10
+    printf("Goodbye World\n"); // print "Goodbye World"
+}
+```
+
+Python
+```py
+if x == 5: # if x is equal to 5
+    print("Hello World") # print "Hello World"
+elif x == 10: # if x is equal to 10
+    print("Hello Goodbye World") # print "Hello Goodbye World"
+else: # if x is not equal to 5 or 10
+    print("Goodbye World") # print "Goodbye World"
+```
+
