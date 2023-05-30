@@ -225,5 +225,6 @@ while x != 5: # repeat until x is equal to 5
 ```
 
 If x is never equal to 5, this will repeat forever.
-[Back: Main](../)
+
+[Back: Main](../) |
 [Next: Python](../c/)
