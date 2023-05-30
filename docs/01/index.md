@@ -292,3 +292,6 @@ what a program is doing.
 
 Sometimes when you have an idea, but are having trouble writing the code, it can help to write pseudocode first, and then write the code based on
 the pseudocode.
+
+[Back](../00/) |
+[Next](../02/)
