@@ -15,7 +15,7 @@
 - [Pointers and Memory Management](./ch1/sec7/index.md)
 
 ## Chapter 2: Python Basics
-- Introduction to Python
+- [Introduction to Python](./ch2/sec1/index.md)
 - Variables and Data Types in Python
 - Operators and Expressions in Python
 - Control Flow: Conditional Statements and Loops in Python
