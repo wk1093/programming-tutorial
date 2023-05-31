@@ -212,7 +212,7 @@ print(mytestfile.avariable) # prints 5
 ## Examples / Exercises
 
 Now with all our new knowledge, we can make some programs.
-Here is a few examples:
+Here is a few examples with a challenge:
 
 ### Guessing Game
 
@@ -223,7 +223,7 @@ number = random.randint(1, 10)
 guess = -1
 
 # the user can keep guessing until they guess the correct number
-# try to modify this program to only allow 3 guesses
+# try to modify/rewrite this program to only allow 3 guesses
 
 while guess != number: # repeat until correct guess
     try:
