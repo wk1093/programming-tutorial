@@ -116,10 +116,12 @@ In C, arrays are declared like this:
 ```c
 int main() {
     int x[5] = {1, 2, 3, 4, 5};
-    printf("%d\n", x[0]);
+    printf("%d\n", x[0]); // first element: 0
     return 0;
 }
 ```
+
+In most programming langauges, arrays start at 0, not 1. So to get the first element in an array, you use `array[0]`. for the second element, you use `array[1]`, and so on.
 
 This program declares an array named `x` with 5 elements. The first element is 1, the second is 2, and so on. The `x[0]` in the printf function gets the first element of the array.
 
@@ -128,7 +130,7 @@ An array is actually just a pointer to the first element of the array. So the fo
 ```c
 int main() {
     int x[5] = {1, 2, 3, 4, 5};
-    printf("%d\n", *x);
+    printf("%d\n", *x); // first element: 0
     return 0;
 }
 ```
@@ -136,7 +138,7 @@ int main() {
 ```c
 int main() {
     int x[5] = {1, 2, 3, 4, 5};
-    printf("%d\n", x[1]);
+    printf("%d\n", x[1]); // second element: 1
     printf("%d\n", *(x + 1)); // same as above
     return 0;
 }
