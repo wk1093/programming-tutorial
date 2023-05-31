@@ -10,7 +10,7 @@
 - [Variables and Data Types](./ch1/sec2/index.md)
 - [Operators and Expressions](./ch1/sec3/index.md)
 - [Control Flow: Conditional Statements and Loops](./ch1/sec4/index.md)
-- Functions and Modular Programming
+- [Functions and Modular Programming](./ch1/sec5/index.md)
 - Arrays and Strings
 - Pointers and Memory Management
 
