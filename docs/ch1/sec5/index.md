@@ -10,13 +10,13 @@ A function is a self-contained block of code that performs a specific task. It t
 
 Here's an example that demonstrates the syntax of a function in C:
 
-\```c
+```c
 // Function declaration
 int add(int a, int b) {
     int sum = a + b;
     return sum;
 }
-\```
+```
 
 ### Function Call and Return
 
@@ -24,10 +24,10 @@ To use a function, you need to call it. When a function is called, the control t
 
 Here's an example that demonstrates the usage of function calls and return statements:
 
-\```c
+```c
 int result = add(5, 3);  // Function call
 printf("The sum is: %d", result);
-\```
+```
 
 ### Function Prototypes
 
@@ -35,7 +35,7 @@ A function prototype is a declaration that tells the compiler about the existenc
 
 Here's an example that demonstrates the usage of function prototypes:
 
-\```c
+```c
 // Function prototype
 int add(int a, int b);
 
@@ -50,7 +50,7 @@ int add(int a, int b) {
     int sum = a + b;
     return sum;
 }
-\```
+```
 
 ### Modular Programming
 
