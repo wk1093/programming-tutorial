@@ -7,8 +7,8 @@
 
 ## Chapter 1: Getting Started with C
 - [Introduction to C](./ch1/sec1/index.md)
-- Variables and Data Types
-- Operators and Expressions
+- [Variables and Data Types](./ch1/sec2/index.md)
+- [Operators and Expressions](./ch1/sec3/index.md)
 - Control Flow: Conditional Statements and Loops
 - Functions and Modular Programming
 - Arrays and Strings
