@@ -16,12 +16,12 @@
 
 ## Chapter 2: Python Basics
 - [Introduction to Python](./ch2/sec1/index.md)
-- Variables and Data Types in Python
-- Operators and Expressions in Python
-- Control Flow: Conditional Statements and Loops in Python
-- Functions in Python
+- [Variables and Data Types](./ch2/sec2/index.md)
+- [Operators and Expressions](./ch2/sec3/index.md)
+- Control Flow: Conditional Statements and Loops
+- Functions
 - Data Structures: Lists, Tuples, and Dictionaries
-- File Handling in Python
+- File Handling
 
 ## Chapter 3: Intermediate Concepts
 - Object-Oriented Programming (OOP) in C
