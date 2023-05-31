@@ -1,4 +1,4 @@
-
+```py
 import random
 
 # Note: this program is not very good, because a tie is counted as a win
@@ -44,3 +44,5 @@ while True: # repeat forever
     print("Score: " + str(wins - losses))
     if input("Play again? (y/n) ").lower() != "y": # ask user if they want to play again
         break # exit loop
+```
+[Back](./)

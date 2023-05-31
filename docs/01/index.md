@@ -245,7 +245,7 @@ while guess != number: # repeat until correct guess
 
 ```
 
-[Solution](guess.py)
+[Solution](guess.md)
 
 ### Rock Paper Scissors
 
@@ -288,7 +288,7 @@ while True: # repeat forever
         break # exit loop
 
 ```
-[Solution](rps.py)
+[Solution](rps.md)
 
 If you find it hard to read either of the above examples, try going through line by line, and writing down what each line is doing. Keep indentation
 in mind, and remember that all of the code that is indented is part of the loop. This is called "pseudocode", and it is a good way to understand
