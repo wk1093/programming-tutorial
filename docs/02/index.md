@@ -321,12 +321,15 @@ Here is a few examples with a challenge:
 
 ```c
 #include <stdio.h>
+#include <stdlib.h> // for rand() and srand()
+#include <time.h> // for time()
 
 // the user can keep guessing until they guess the correct number
 // try to modify/rewrite this program to only allow 3 guesses
 
 int main() {
-    int number = 5;
+    srand(time(NULL)); // seed the random number generator
+    int number = rand() % 10 + 1; // generate a random number between 1 and 10
     int guess;
     while (1) {
         printf("Enter a number: ");
@@ -334,13 +337,16 @@ int main() {
         if (guess == number) {
             printf("You guessed the correct number!\n");
             break;
+        } else if (guess < number) {
+            printf("Too low\n");
         } else {
-            printf("You guessed the wrong number!\n");
+            printf("Too high\n");
         }
     }
     return 0;
 }
 ```
+[Solution](guess.md)
 
 Like in Python, if you have trouble reading the code, try going line by line and writing pseudocode for it.
 Try changing different parts of the code and see what happens.
