@@ -12,7 +12,7 @@
 - [Control Flow: Conditional Statements and Loops](./ch1/sec4/index.md)
 - [Functions and Modular Programming](./ch1/sec5/index.md)
 - [Arrays and Strings](./ch1/sec6/index.md)
-- Pointers and Memory Management
+- [Pointers and Memory Management](./ch1/sec7/index.md)
 
 ## Chapter 2: Python Basics
 - Introduction to Python
