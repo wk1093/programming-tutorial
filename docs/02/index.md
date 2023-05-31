@@ -101,6 +101,8 @@ int *y = &x;
 This line declares a variable named `y` and assigns it the address (position in memory) of `x`. The `*` before the variable name tells the compiler that `y` is 
 a pointer. The `&` before the variable name tells the compiler to get the address of the variable.
 
+If you have trouble understanding pointers, I recommend reading [this](https://www.tutorialspoint.com/cprogramming/c_pointers.htm) tutorial.
+
 ```c
 printf("%d\n", *y);
 ```
