@@ -16,4 +16,4 @@ for i in range(3):
     if guess == number:
         break
 ```
-[Back](./)
+[Back](./#guessing-game)

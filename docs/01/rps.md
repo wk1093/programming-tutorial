@@ -45,4 +45,4 @@ while True: # repeat forever
     if input("Play again? (y/n) ").lower() != "y": # ask user if they want to play again
         break # exit loop
 ```
-[Back](./)
+[Back](./#rock-paper-scissors)
