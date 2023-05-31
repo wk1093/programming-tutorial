@@ -245,6 +245,8 @@ while guess != number: # repeat until correct guess
 
 ```
 
+[Solution](guess.py)
+
 ### Rock Paper Scissors
 
 ```py
@@ -253,6 +255,7 @@ import random
 
 # rock paper scissors game
 # try to modify this program to keep track of wins and losses
+# Note: this program is not very good, because a tie is counted as a win
 
 while True: # repeat forever
     user = input("Rock, Paper, or Scissors? ").lower() # get user input and convert to lowercase
@@ -285,6 +288,7 @@ while True: # repeat forever
         break # exit loop
 
 ```
+[Solution](rps.py)
 
 If you find it hard to read either of the above examples, try going through line by line, and writing down what each line is doing. Keep indentation
 in mind, and remember that all of the code that is indented is part of the loop. This is called "pseudocode", and it is a good way to understand
