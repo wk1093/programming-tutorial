@@ -85,3 +85,6 @@ unsigned long int distance;
 Understanding variables and data types is crucial for writing effective C programs. They allow you to store, manipulate, and represent different types of data. In the upcoming sections, we'll explore more about variables, data types, and how to work with them in C.
 
 Let's continue our journey into the world of C programming and dive deeper into these concepts!
+
+[Back](../sec1/index.md) |
+[Next](../sec3/index.md)
