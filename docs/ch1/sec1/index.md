@@ -45,3 +45,6 @@ For the C compiler, you have various options depending on your operating system:
 In the following sections, we will cover the installation of the necessary tools and provide examples of basic C programs.
 
 Let's dive into the world of C programming and explore its concepts, syntax, and best practices!
+
+[Back](../../ch0/sec2/index.md) |
+[Next](../sec2/index.md)

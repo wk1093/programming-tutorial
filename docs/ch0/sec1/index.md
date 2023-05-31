@@ -34,4 +34,5 @@ Learning to code offers countless advantages that extend far beyond the realm of
 
 Now, let's start our coding journey and explore the exciting concepts of C and Python!
 
+[Back](../sec0/index.md) |
 [Next](../sec2/index.md)

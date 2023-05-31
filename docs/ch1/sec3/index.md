@@ -95,3 +95,6 @@ y -= 3;  // Equivalent to y = y - 3
 Understanding operators and expressions is essential for performing computations and making logical decisions in C programs. In the upcoming sections, we'll explore more about operators, expressions, and how they are used in C.
 
 Let's continue our journey into the world of C programming and explore these concepts further!
+
+[Back](../sec2/index.md) |
+[Next](../sec4/index.md)
