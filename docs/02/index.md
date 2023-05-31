@@ -353,7 +353,9 @@ Try changing different parts of the code and see what happens.
 
 ## Note
  > From now on, most of the tutorial will have Python and/or C code examples. So make sure you have a basic understanding of both languages before continuing.
-
+ 
+If you need help with Python, check out [this](https://www.w3schools.com/python) tutorial.
+If you need help with C, check out [this](https://www.w3schools.com/c/) tutorial.
 
 [Back](../01/) |
 [Next](../03/)
