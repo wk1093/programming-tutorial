@@ -32,7 +32,5 @@ Technology is constantly evolving, and programming keeps you at the forefront of
 
 Learning to code offers countless advantages that extend far beyond the realm of programming itself. Whether you're driven by personal interest, career aspirations, or a desire to create meaningful solutions, programming equips you with valuable skills and opens doors to a world of possibilities.
 
-Now, let's start our coding journey and explore the exciting concepts of C and Python!
-
 [Back](../sec0/index.md) |
 [Next](../sec2/index.md)

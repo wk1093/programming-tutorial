@@ -9,7 +9,7 @@
 - [Introduction to C](./ch1/sec1/index.md)
 - [Variables and Data Types](./ch1/sec2/index.md)
 - [Operators and Expressions](./ch1/sec3/index.md)
-- Control Flow: Conditional Statements and Loops
+- [Control Flow: Conditional Statements and Loops](./ch1/sec4/index.md)
 - Functions and Modular Programming
 - Arrays and Strings
 - Pointers and Memory Management
